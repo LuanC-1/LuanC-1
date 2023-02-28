@@ -1,7 +1,5 @@
 ### Olá ! Eu sou o Luan Costa
 
-<div>
-  <a href="https://github.com/LuanC-1">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true&theme=radical)
+
 
