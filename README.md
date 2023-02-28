@@ -4,4 +4,4 @@
 
 
 
-<a href="https://github.com/LuanC-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuanC-1/LuanC-1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanC-1&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/LuanC-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LuanC-1/LuanC-1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanC-1&layout=compact&theme=transparent&hide_border=true" /></a>
