@@ -10,5 +10,5 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: radical)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=LuanC-1&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanC-1&hide_progress=true" />
 </picture>
