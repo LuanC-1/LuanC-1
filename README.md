@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Luan Costa.
+### Olá! Eu sou o Luan Costa.
 
 - 👨‍💻 Analista de Sistemas - Infraestutura
 
